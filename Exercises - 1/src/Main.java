@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 public class Main {
     public static void main(String[] args) {
 
@@ -35,13 +34,13 @@ public class Main {
 // Solution
 //        System.out.println("Welcome to the Percentage Calculator !");
 //
-//        System.out.print("Please enter your obtained marks: ");
+//        System.out.print("Please enter the obtained marks: ");
 //        double obtainedMarks = input.nextDouble();
 //
 //        System.out.print("Please enter the total marks: ");
 //        double totalMarks = input.nextDouble();
 //
-//           // Percentage = (Value/Total Value)×100
+//           // Percentage = (Value/Total Value)x100
 //        double percentage = (obtainedMarks/totalMarks)*100 ;
 //        System.out.println("Percentage = "+ percentage + "%");
 
@@ -52,7 +51,6 @@ public class Main {
         • Expected Output: Amount in EUR = 85.0  */
     // Solution
 //        System.out.println("Welcome to the Currency Converter $!");
-//
 //
 //        System.out.print("Enter the currency you are converting from : ");
 //        String from_currency = input.nextLine();
@@ -103,9 +101,7 @@ public class Main {
 //
 //        System.out.println("Enter the ending index : ");
 //        int endIn = input.nextInt();
-//
-//        String substring = sentence.substring(startIn, endIn);
-//
+
 //        String sub_string = sentence.substring(startIn, endIn);
 //        System.out.println("Substring: " + sub_string);
 
@@ -148,7 +144,7 @@ public class Main {
 //
 //        System.out.println("Modified sentence: " + modifiedSen);
 
-
+// _______________________________________________________________________________________________________________________
         /* Q8- Write a program that takes two strings as input and check if they are equal,
         ignoring the case, then prints whether they are equal or not.
         • Input: String 1 = "Hello", String 2 = "hello"
